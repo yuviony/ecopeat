@@ -12,7 +12,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Block</a></h4>
@@ -20,7 +20,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Brick</a></h4>
@@ -28,7 +28,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Fibre</a></h4>
@@ -36,7 +36,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="600">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-broadcast icon"></i></div>
               <h4><a href="" class="stretched-link">Coconut Oil</a></h4>
