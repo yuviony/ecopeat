@@ -15,6 +15,11 @@ export default new Router({
       name: 'Indiancocopeat',
       component: () => import('./components/Indiancocopeat.vue')
     },
+    {
+      path: '/products',
+      name: 'Products',
+      component: () => import('./components/Products.vue')
+    },
   ]
 })
 

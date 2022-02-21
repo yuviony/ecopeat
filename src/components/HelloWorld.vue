@@ -4,6 +4,7 @@
     <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
       <h2>Welcome to <span>Ecopeat</span></h2>
       <p>Our innovative thinking helps us overcome new challenges in an ever increasing world of demands for new products, growing solutions and reliability of supply.</p>
+      <img src="assets/img/logo.png"/>
     </div>
   </section>
     <section id="featured-services" class="featured-services">
@@ -15,7 +16,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Block</a></h4>
-              <p><img src="assets/img/products/ecopeat-block.jpeg" class="img-fluid animated"></p>
+              <p><img src="../assets/products/ecopeat-block.jpg" class="img-fluid animated"></p>
             </div>
           </div><!-- End Service Item -->
 
@@ -23,7 +24,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Brick</a></h4>
-              <p><img src="assets/img/products/ecopeat-bricks.jpeg" class="img-fluid animated"></p>
+              <p><img src="../assets/products/ecopeat-bricks.jpg" class="img-fluid animated"></p>
             </div>
           </div><!-- End Service Item -->
 
@@ -31,7 +32,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Fibre</a></h4>
-              <p><img src="assets/img/products/eco-peat-fibre.jpeg" class="img-fluid animated"></p>
+              <p><img src="../assets/products/eco-peat-fibre.jpg" class="img-fluid animated"></p>
             </div>
           </div><!-- End Service Item -->
 
@@ -39,7 +40,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-broadcast icon"></i></div>
               <h4><a href="" class="stretched-link">Coconut Oil</a></h4>
-              <p><img src="assets/img/products/coconut-oil.jpeg" class="img-fluid animated"></p>
+              <p><img src="../assets/products/coconut-oil.jpeg" class="img-fluid animated"></p>
             </div>
           </div><!-- End Service Item -->
 
@@ -74,15 +75,6 @@
               <div class="img">
                 <img v-bind:src="service.image" class="img-fluid" alt="">
               </div>
-              <div class="details position-relative">
-                <div class="icon">
-                  <i class="bi bi-activity"></i>
-                </div>
-                <a href="#" class="stretched-link">
-                  <h3>{{ service.head }}</h3>
-                </a>
-                <p>{{ service.title }}</p>
-              </div>
             </div>
           </div>
 
@@ -110,7 +102,6 @@
               <img v-bind:src="item.image" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>{{ item.title }}</h4>
-                <a href="assets/img/portfolio/1.jpeg" title="Branding 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               </div>
             </div>
           </div>
@@ -135,7 +126,7 @@ export default {
       {
         id: 2,
         title: 'coconut',
-        image: [require("../assets/portfolio/2.jpeg")],
+        image: [require("../assets/portfolio/8.png")],
       },
       {
         id: 3,
@@ -165,7 +156,7 @@ export default {
       {
         id: 8,
         title: 'grapes',
-        image: [require("../assets/portfolio/8.png")],
+        image: [require("../assets/portfolio/2.jpeg")],
       }
     ],
     services_img: [
