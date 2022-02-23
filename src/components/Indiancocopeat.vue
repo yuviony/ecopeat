@@ -82,7 +82,7 @@
                 </ul>
               </div>
               <div class="col-lg-4 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-2.svg" alt="" class="img-fluid">
+                <img src="../assets/indiancocopeat/1.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Tab Content 2 -->
