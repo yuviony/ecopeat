@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
@@ -459,7 +459,7 @@ section {
 --------------------------------------------------------------*/
 .hero-animated {
   width: 100%;
-  min-height: 50vh;
+  min-height: 35vh;
   background: url("../img/hero-bg.png") center center;
   background-size: cover;
   position: relative;
@@ -863,7 +863,7 @@ section {
   background: url("../img/hero-bg.png") center center;
   background-size: cover;
   position: relative;
-  padding: 120px 0 60px;
+  padding: 120px 0 20px;
 }
 .hero-static h2 {
   margin: 0 0 10px 0;
@@ -933,8 +933,8 @@ section {
 # Featured Services Section
 --------------------------------------------------------------*/
 .featured-services .service-item {
-  padding: 30px;
-  transition: all ease-in-out 0.4s;
+  padding: 20px;
+  /*transition: all ease-in-out 0.4s;*/
   background: var(--color-white);
   height: 100%;
 }

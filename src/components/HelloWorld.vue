@@ -5,9 +5,7 @@
       <h2>Welcome to <span>Ecopeat</span></h2>
       <p>Our innovative thinking helps us overcome new challenges in an ever increasing world of demands for new products, growing solutions and reliability of supply.</p>
       <img src="assets/img/logo.png"/>
-      <br/>
       <a href="" class="btn-get-started">+91 99446 70855</a>
-      <br/>
       <div class="d-flex">
         <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-envelope-fill"></i><span>ecopeat.in@gmail.com</span></a>
       </div>
