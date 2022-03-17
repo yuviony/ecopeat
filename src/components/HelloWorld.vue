@@ -5,6 +5,10 @@
       <h2>Welcome to <span>Ecopeat</span></h2>
       <p>Our innovative thinking helps us overcome new challenges in an ever increasing world of demands for new products, growing solutions and reliability of supply.</p>
       <img src="assets/img/logo.png"/>
+      <a href="" class="btn-get-started">+91 99446 70855</a>
+      <div class="d-flex">
+        <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-envelope-fill"></i><span>ecopeat.in@gmail.com</span></a>
+      </div>
     </div>
   </section>
     <section id="featured-services" class="featured-services">
@@ -12,7 +16,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Block</a></h4>
@@ -20,7 +24,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Brick</a></h4>
@@ -28,7 +32,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
               <h4><a href="" class="stretched-link">Ecopeat Fibre</a></h4>
@@ -36,7 +40,7 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+          <div class="col-xl-3 col-md-3 d-flex" data-aos="zoom-out" data-aos-delay="600">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-broadcast icon"></i></div>
               <h4><a href="" class="stretched-link">Coconut Oil</a></h4>
@@ -125,37 +129,37 @@ export default {
       },
       {
         id: 2,
-        title: 'coconut',
-        image: [require("../assets/portfolio/8.png")],
+        title: 'Mushroom Cultivation',
+        image: [require("../assets/portfolio/6.jpg")],
       },
       {
         id: 3,
-        title: 'tomato',
+        title: 'Coconut',
         image: [require("../assets/portfolio/3.jpeg")],
       },
       {
         id: 4,
-        title: 'berries',
+        title: 'Planting berries',
         image: [require("../assets/portfolio/4.jpeg")],
       },
       {
         id: 5,
-        title: 'tomato',
+        title: 'Rose Cultivation',
         image: [require("../assets/portfolio/5.jpeg")],
       },
       {
         id: 6,
-        title: 'tomato',
-        image: [require("../assets/portfolio/6.jpeg")],
+        title: 'Grapes',
+        image: [require("../assets/portfolio/8.png")],
       },
       {
         id: 7,
         title: 'tomato',
-        image: [require("../assets/portfolio/7.jpeg")],
+        image: [require("../assets/portfolio/6.jpeg")],
       },
       {
         id: 8,
-        title: 'grapes',
+        title: 'Coconut',
         image: [require("../assets/portfolio/2.jpeg")],
       }
     ],
