@@ -112,6 +112,14 @@
         </div>
 
       </div>
+      <amp-ad width="100vw" height="320"
+           type="adsense"
+           data-ad-client="ca-pub-2464991287215606"
+           data-ad-slot="1146494313"
+           data-auto-format="rspv"
+           data-full-width="">
+        <div overflow=""></div>
+      </amp-ad>
     </section>
   </div>
 </template>
